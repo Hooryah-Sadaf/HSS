@@ -1,1 +1,1 @@
-# HSS
+# This is the default repository
